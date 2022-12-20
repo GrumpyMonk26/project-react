@@ -2,10 +2,10 @@
 
 ### Corresponding Projects
 
-#### useState
+### useState
 Birthday Reminder
 
-#### useEffect and Conditional Rendering
+### useEffect and Conditional Rendering
 ##### Tours
 ##### Reviews
 ##### Accordion
@@ -13,17 +13,17 @@ Birthday Reminder
 ##### Tabs
 ##### Slider
 
-#### Forms
+### Forms
 ##### Lorem Ipsum Generator
 ##### Color Shades Generator
 ##### Grocery Bud
 
-#### useRef
+### useRef
 ##### Navbar
 ##### useContext
 ##### Modal and Sidebar
 ##### Stripe Menus
 
-#### useReducer and useContext
+### useReducer and useContext
 ##### Cart
 ##### React Router
