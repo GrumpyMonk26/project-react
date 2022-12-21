@@ -1,6 +1,6 @@
-## project-react is a repository to showcase mini React projects
+# project-react is a repository to showcase mini React projects
 
-### Corresponding Projects
+## Corresponding Projects
 
 ### useState
 Birthday Reminder
